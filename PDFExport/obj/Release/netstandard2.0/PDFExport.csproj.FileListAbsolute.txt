@@ -1,0 +1,13 @@
+C:\Users\dev\source\repos\ApitronTestApp1\PDFExport\bin\Release\netstandard2.0\PDFExport.deps.json
+C:\Users\dev\source\repos\ApitronTestApp1\PDFExport\bin\Release\netstandard2.0\PDFExport.dll
+C:\Users\dev\source\repos\ApitronTestApp1\PDFExport\bin\Release\netstandard2.0\PDFExport.pdb
+C:\Users\dev\source\repos\ApitronTestApp1\PDFExport\obj\Release\netstandard2.0\PDFExport.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\ApitronTestApp1\PDFExport\obj\Release\netstandard2.0\PDFExport.dll
+C:\Users\dev\source\repos\ApitronTestApp1\PDFExport\obj\Release\netstandard2.0\PDFExport.pdb
+C:\Users\dev\Documents\source\ApitronTestApp1\PDFExport\bin\Release\netstandard2.0\PDFExport.deps.json
+C:\Users\dev\Documents\source\ApitronTestApp1\PDFExport\bin\Release\netstandard2.0\PDFExport.dll
+C:\Users\dev\Documents\source\ApitronTestApp1\PDFExport\bin\Release\netstandard2.0\PDFExport.pdb
+C:\Users\dev\Documents\source\ApitronTestApp1\PDFExport\obj\Release\netstandard2.0\PDFExport.csprojAssemblyReference.cache
+C:\Users\dev\Documents\source\ApitronTestApp1\PDFExport\obj\Release\netstandard2.0\PDFExport.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\source\ApitronTestApp1\PDFExport\obj\Release\netstandard2.0\PDFExport.dll
+C:\Users\dev\Documents\source\ApitronTestApp1\PDFExport\obj\Release\netstandard2.0\PDFExport.pdb
